@@ -211,9 +211,3 @@ Set `--damping_edge` equal to `--damping`. The parabola term cancels out and eve
 - The fisheye remap is computed **once per render** and applied to an output copy of each frame only — it never feeds back into the trail canvas, so distortion does not accumulate over time.
 - Particle `drift_angles` are per-particle and persist across frames. The spiral rotation modifies these angles directly, so the curve is emergent from the drift steering rather than applied as a post-process.
 - The trail canvas is kept in undistorted space. Glow and fisheye are applied to a copy for output only.
-
----
-
-## License
-
-MIT
