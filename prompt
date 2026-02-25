@@ -1,0 +1,8 @@
+python particle_visualizer.py \
+  --input "Drowning.wav" --output drowning_preview.mp4 \
+  --fps 60 --n_particles 2000 \
+  --line_color 255 255 255 \
+  --drift_speed 0.4 --damping 0.95 --damping_edge 0.95 --spiral_rate -0.0005 \
+  --scatter_strength 6.0 --trail_decay 0.88 \
+  --fisheye_strength 0.5 --centre_brightness 0.9 \
+  --preview
