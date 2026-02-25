@@ -2,7 +2,7 @@
 
 An audio-reactive particle field renderer with CRT phosphor glow and fisheye lens distortion. Particles are born at the centre of the frame, drift outward in slow spirals, and fade to nothing before they reach the edge — giving the impression of an infinite, dark field that breathes with the music.
 
-Built as a sister project to [`STRING-VISUALIZER`](https://github.com/) & [`OSCILLOSCOPE-VISUALIZER`](https://github.com/AmoghShet/OSCILLOSCOPE-VISUALIZER.git), sharing the same rendering pipeline and visual aesthetic; was used to create the music visualizer for [`Mo - Drowning (Sound Sketch) [Official Visualizer]`](https://www.youtube.com/watch?v=6HTqKCGnfRg)
+Built as a sister project to [`STRING-VISUALIZER`]([https://github.com/](https://github.com/AmoghShet/STRING-VISUALIZER.git)) & [`OSCILLOSCOPE-VISUALIZER`](https://github.com/AmoghShet/OSCILLOSCOPE-VISUALIZER.git), sharing the same rendering pipeline and visual aesthetic; was used to create the music visualizer for [`Mo - Drowning (Sound Sketch) [Official Visualizer]`](https://www.youtube.com/watch?v=6HTqKCGnfRg)
 
 ---
 
